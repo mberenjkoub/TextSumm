@@ -1,0 +1,55 @@
+package Final;
+
+import System.Collections.Generic.*;
+import System.ComponentModel.*;
+import System.Configuration.Install.*;
+
+/**
+ * Summary description for Installer1.
+ */
+/** @attribute RunInstaller(true) */
+public class Installer1 extends System.Configuration.Install.Installer
+{
+	/**
+	 * Required designer variable.
+	 */
+	private System.ComponentModel.IContainer components;
+
+	public Installer1()
+	{
+		//
+		// This call is required by the Designer.
+		//
+		InitializeComponent();
+
+		//
+		// TODO: Add any initialization after the InitializeComponent call
+		//
+	}
+
+	#region Component Designer generated code
+	/**
+     * Clean up any resources being used.
+     */
+	protected void Dispose(boolean disposing)
+	{
+		if (disposing)
+		{
+			if (components != null)
+			{
+				components.Dispose();
+			}
+		}
+		super.Dispose(disposing);
+	}
+
+	/**
+	 * Required method for Designer support - do not modify
+	 * the contents of this method with the code editor.
+	 */
+	private void InitializeComponent()
+	{
+		this.components = new System.ComponentModel.Container();
+	}
+	#endregion
+}

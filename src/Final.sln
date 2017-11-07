@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E6FDF86B-F3D1-11D4-8576-0002A516ECE8}") = "Final", "Final.vjsproj", "{BB1450D0-5891-4F87-8264-C59E9061DAB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1450D0-5891-4F87-8264-C59E9061DAB6}.Debug|x86.ActiveCfg = Debug|x86
+		{BB1450D0-5891-4F87-8264-C59E9061DAB6}.Debug|x86.Build.0 = Debug|x86
+		{BB1450D0-5891-4F87-8264-C59E9061DAB6}.Release|x86.ActiveCfg = Release|x86
+		{BB1450D0-5891-4F87-8264-C59E9061DAB6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
